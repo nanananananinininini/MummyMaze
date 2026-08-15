@@ -1,7 +1,7 @@
 # Mummy Maze CLI Game — Update Notes
 
 ## 1. Overview
-This update focuses on fixing the critical bug where the exit marker `e` could be overwritten and disappear when the mummy passed over it. The map rendering logic has been refactored to make the game state more robust and easier to maintain. All in-code comments have also been translated into English.
+This update focuses on fixing the critical bug where the exit marker `e` could be overwritten and disappear when the mummy passed over it. The map rendering logic has been refactored to make the game state more robust and easier to maintain.
 
 ---
 
