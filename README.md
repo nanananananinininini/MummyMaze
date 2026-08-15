@@ -1,4 +1,3 @@
-<translate_input>
 
 # Instructions for the Mummy Maze CLI Game
 
